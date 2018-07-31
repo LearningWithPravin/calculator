@@ -1,2 +1,2 @@
 # calculator
-Play-akka based calculator framework.
+Play-akka based calculator framework using clustering.
